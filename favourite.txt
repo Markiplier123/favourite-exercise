@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 scramble egg
 fried fries
 chicken
 rice
+=======
+50 shades of grade
+game of throne
+tokyo ghoul
+>>>>>>> movies
